@@ -1,0 +1,31 @@
+开源声明 / Open Source Statement
+本项目及其附带的所有内容由 [叶北宋] 提供，仅供学习与个人使用。使用者需遵守以下条款：
+This project and all its associated content (hereinafter referred to as "the Project") are provided by [Author or Organization Name] for educational and personal use only. Users must comply with the following terms:
+
+非商业用途 / Non-Commercial Use
+本项目及其任何衍生内容不得用于任何形式的商业活动，包括但不限于直接销售、间接盈利或作为商业项目的一部分。
+The Project and any derivative content shall not be used for any form of commercial activities, including but not limited to direct sales, indirect profit-making, or as part of a commercial project.
+
+商业许可 / Commercial Use Permission
+如需将本项目用于商业活动，必须事先获得作者的书面同意并签署相关许可协议。
+For any commercial use of the Project, prior written consent from the author is required, along with a signed licensing agreement.
+
+禁止分发 / No Distribution
+未经授权，任何个人或组织不得复制、分发、上传或以任何形式传播本项目的部分或全部内容。
+Without authorization, no individual or organization is permitted to copy, distribute, upload, or disseminate any part or all of the Project in any form.
+
+禁止抄写 / No Replication
+本项目的代码、文档或相关资源不得以任何方式被直接或间接抄写，或作为其他项目的组成部分使用。
+The code, documentation, or related resources of the Project shall not be directly or indirectly replicated or used as part of other projects in any manner.
+
+责任限制 / Limitation of Liability
+本项目按“现状”提供，作者不对其使用过程中可能产生的任何直接或间接后果负责。
+The Project is provided "as is," and the author is not responsible for any direct or indirect consequences that may arise from its use.
+
+版权保留 / Copyright Retention
+作者保留对本项目的所有权利。任何违反本声明的行为将被视为侵权，作者有权追究相关责任。
+The author retains all rights to the Project. Any violation of this statement will be considered an infringement, and the author reserves the right to pursue legal action.
+
+适用范围 / Scope of Application
+本声明适用于本项目的所有版本及其衍生作品，自使用之日起即视为您已同意上述条款。
+This statement applies to all versions of the Project and its derivatives. By using the Project, you are deemed to have agreed to the terms above.
